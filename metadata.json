@@ -1,0 +1,5 @@
+{
+  "name": "GymLog",
+  "description": "A dark-mode, offline-capable PWA for tracking gym workouts.",
+  "requestFramePermissions": []
+}
